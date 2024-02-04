@@ -1,2 +1,2 @@
 # Dell-XPS-8700-BigSur
-EFI for Dell XPS 8700, Big Sur.
+Hackintosh EFI for Dell XPS 8700, Big Sur.
